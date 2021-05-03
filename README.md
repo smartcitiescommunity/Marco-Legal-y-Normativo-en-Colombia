@@ -65,3 +65,10 @@ La ISO 37120 tiene relaciones con la siguiente lista de normas o estándares baj
 |ISO 37122:2019|Indicadores para ciudades inteligentes|
 |ISO 37123:2019|Indicadores de ciudades resilientes|
 |ISO/AWI 37124|Orientación sobre el uso de la serie de normas ISO 37120 para ciudades: ISO 37120, ISO 37122 e ISO 37123|
+
+
+# Marco Legal y Normativo en Colombia
+
+|Ley,Decreto, Articulo, Norma, Acuerdo|Contexto|
+| ----- | ----- |
+|Proyecto de Acto Legislativo 03 de 2020|“Por el cual se otorga la calidad de Distrito Especial de Ciencia, Tecnología e Innovación a la ciudad de Medellín y se dictan otras disposiciones|
