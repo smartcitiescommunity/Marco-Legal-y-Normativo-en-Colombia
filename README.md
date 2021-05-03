@@ -8,16 +8,16 @@ Este repositorio tiene como fin unificar información que permita a personas del
 |------------ | -------------|------------ |------------ |
 |[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). Modelo de Smart City - Smart Cities Community. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/Modelo-Smart-City/|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|
 
-## Que es una Smart Citiy
-
-> Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)
-
-# __Quienes__ son los actores
+# Inicio
 Inicialmente adoptaremos la metodologia 5w2h para ubicar y allanar el tema de una forma organizada.
 
 |Que|Quien|Donde|Cuando|Por qué|Como|Cuanto|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |Ciudad Inteligente|Actores y partes interesadas|Ciudad o Distrito|Cuando se tienen las condiciones para hacerlo posible en lo Político, Económico, Sociocultural, Tecnológico, Legal y Normativo, Ambiental y Demográfico|Porque es necesario el desarrollo sostenible, la competitividad, la transpararencia, la eficiencia, la calidad de vida y bienestar social de los habitantes de un territorio|Existen diversas teorias al respecto pero en este documento se tratará el modelo de Smart Cities Community|El cuanto depende del como. No obstante el hacer uso de una ruta u otra determinara el capital humano, tiempo, nivel de inversión, costos, recursos y activos a utilizar|
+
+# Que es una Smart Citiy
+
+> Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)
 
 # Actores
 Desde la visión de Smart Cities Community estos son los actores que minimamente debe tener un proyecto de Ciudad Inteligente pues cada uno de estos saberes hacen que las decisiones que se tomen tengan fundamento, perspectiva, idoneidad y objetividad. La ausencia de uno de ellos afectaria el equilibrio en la toma de decisiones y afectaria sistemas macro y podria beneficar temporalmente sistemás micro pero a futuro generaríá roces o conflictos de dificil reconciliación en ambitos político, social y economico. Un aspecto clave de los proyectos de Ciudad Inteligente es la objetividad en la continuidad y sostenibilidad de los ecosistemas creados, organicos, derivados y accidentales.
@@ -36,7 +36,7 @@ Desde la visión de Smart Cities Community estos son los actores que minimamente
 |Organizaciones sociales y comunitarias|Ciencias Políticas|Planeación Urbana|Psicología|Sistemas de Información y automatización|
 |Organizaciones Civícas y Derechos humanos|Derecho énfasis administrativo|Sociología|Proyectos|Telecomunicaciones y Redes de datos|
 
-# Sectores y áreas
+## Sectores y áreas según la ISO
 Sectores y áreas de Impacto contempladas en la Norma ISO 37120  y relacionadas. La ISO 37120 se creo con el próposito de medir y mejorar el desempeño de las ciudades y que estas mantengan el control de la situación. De esta manera se evita esquemas de gobernanza arbitrarios, los cuales comunes en las ciudades cuyas administraciones con altos indices de corrupción, reflejados en burocracia excesiva, mal uso de presupuesto, de activos, recursos públicos y resultados negativos en indices y sistemas de evaluación.
 ||||||
 |------------ | -------------|------------ |------------ | -------------|
