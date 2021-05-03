@@ -6,11 +6,11 @@ Este repositorio tiene como fin unificar información que permita a personas del
 
 |Licencia|Citado|Compatibilidad|Dificultad|
 |------------ | -------------|------------ |------------ |
-|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). CivikBook - Guia para CivikBooks. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|
+|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). Modelo de Smart City - Smart Cities Community. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/Modelo-Smart-City/|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|
 
 ## Que es una Smart Citiy
 
-Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)
+> Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)
 
 # __Quienes__ son los actores
 Inicialmente adoptaremos la metodologia 5w2h para ubicar y allanar el tema de una forma organizada.
