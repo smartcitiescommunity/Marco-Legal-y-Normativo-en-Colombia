@@ -4,7 +4,7 @@ Este repositorio tiene como fin unificar información que permita a personas del
 
 |Actores primer orden|Actores de Segundo orden|Actores de tercer orden|Actores de Cuarto orden|
 | ----- | ----- | ----- | ----- |
-|Administración Pública y Gobierno Local|Economía|Ciencia de Datos y Sistemas de Información|Energía|
-|Ciencias Políticas|Planeación Urbana|Proyectos|Psicología|
-|Derecho énfasis administrativo|Sociología|Tecnologías Cognitivas y automatización|Telecomunicaciones y Redes de datos|
+|Administración Pública y Gobierno Local|Economía|Ciencia de Datos y Tecnologías Cognitivas |Energía|
+|Ciencias Políticas|Planeación Urbana|Psicología|Sistemas de Información y automatización|
+|Derecho énfasis administrativo|Sociología|Proyectos|Telecomunicaciones y Redes de datos|
 
