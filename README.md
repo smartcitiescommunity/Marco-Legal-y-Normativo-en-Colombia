@@ -15,7 +15,7 @@ Inicialmente adoptaremos la metodologia 5w2h para ubicar y allanar el tema de un
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |Ciudad Inteligente|Actores y partes interesadas|Ciudad o Distrito|Cuando se tienen las condiciones para hacerlo posible en lo Político, Económico, Sociocultural, Tecnológico, Legal y Normativo, Ambiental y Demográfico|Porque es necesario el desarrollo sostenible, la competitividad, la transpararencia, la eficiencia, la calidad de vida y bienestar social de los habitantes de un territorio|Existen diversas teorias al respecto pero en este documento se tratará el modelo de Smart Cities Community|El cuanto depende del como. No obstante el hacer uso de una ruta u otra determinara el capital humano, tiempo, nivel de inversión, costos, recursos y activos a utilizar|
 
-# Que es una Smart Citiy
+# Que es una Smart City
 
 > Una ciudad inteligente es aquella en la que de manera articulada y planificada con todos sus habitantes y partes involucradas, construyen un territorio haciendo uso de sus conocimientos, mejores prácticas, tecnología, recursos y activos de manera sostenible, siendo ambiental y socialmente responsables, priorizando siempre la calidad de vida y el bienestar del ciudadano. Juan F. Villa. (8 Abril de 2014)
 
