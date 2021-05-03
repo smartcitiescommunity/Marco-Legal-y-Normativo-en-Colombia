@@ -46,7 +46,7 @@ Sectores y áreas de Impacto contempladas en la Norma ISO 37120  y relacionadas.
 |:soccer:	Diversión|:shield: Seguridad|:wastebasket: Residuos sólidos|:juggling_person: Deporte y Cultura|:satellite: Telecomunicación|
 |:tram: Transporte|:farmer: Agricultura urbana y Seguridad alimentaria|:building_construction: Planeamiento urbanístico|:non-potable_water: Aguas residuales|:potable_water:Agua|
 
-# Relaciones con otras ISO
+## Relaciones con otras ISO
 La ISO 37120 tiene relaciones con la siguiente lista de normas o estándares bajo la categoría de Ciudades y comunidades sostenibles:
 
 |ISO|Contexto|
