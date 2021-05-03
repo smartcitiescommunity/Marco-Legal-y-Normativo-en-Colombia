@@ -2,9 +2,9 @@
 
 Este repositorio tiene como fin unificar información que permita a personas del ambito de las Ciudades inteligentes y actores relacionados tener una ruta clara a la hora de tomar decisiones
 
-|Profesiones de primer nivel|Profesionales de Segundo Nivel|Profesionales de Tercer nivel|
+|Actores primer orden|Actores de Segundo orden|Actores de tercer orden|Actoresde Cuarto Orden|
 | ----- | ----- | ----- |
-|Administración Publica y Gobierno Local|Planeación Urbana|Telecomunicaciones y Redes de datos|
-|Ciencias Políticas|Economia|Ciencia de Datos y Sistemas de Información|
-|Derecho enfasis administrativo|Proyectos|Tecnologias Cognitivas y automatización|
+|Administración Pública y Gobierno Local|Economía|Ciencia de Datos y Sistemas de Información|Energía|
+|Ciencias Políticas|Planeación Urbana|Proyectos|Psicología|
+|Derecho énfasis administrativo|Sociología|Tecnologías Cognitivas y automatización|Telecomunicaciones y Redes de datos|
 
