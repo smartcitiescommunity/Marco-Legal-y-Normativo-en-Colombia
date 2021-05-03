@@ -4,9 +4,9 @@ Este repositorio tiene como fin unificar información que permita a personas del
 
 # Citado o referenciado en públicaciones
 
-|Licencia|Citado|Compatibilidad|Dificultad|
+|Licencia|Citado|Compatibilidad|
 |------------ | -------------|------------ |------------ |
-|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). Modelo de Smart City - Smart Cities Community. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/Modelo-Smart-City/|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|
+|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). Modelo de Smart City - Smart Cities Community. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/Modelo-Smart-City/|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|
 
 # Inicio
 Inicialmente adoptaremos la metodologia 5w2h para ubicar y allanar el tema de una forma organizada.
