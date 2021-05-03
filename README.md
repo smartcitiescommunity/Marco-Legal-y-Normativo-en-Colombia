@@ -14,11 +14,10 @@ Desde la visión de Smart Cities Community estos son los actores que minimamente
 # Sectores y áreas
 Sectores y áreas de Impacto contempladas en la Norma ISO 37120  y relacionadas
 
+|------------ | -------------|------------ |------------ | -------------|
 |:moneybag: Economía|:open_book: Educación|:zap: Energía|:recycle: Medio ambiente y Cambio climático|
 |:heavy_dollar_sign: Finanzas|:classical_building: Gobernanza|:medical_symbol: Salud|:house_with_garden: Vivienda|:family: Población y Condiciones sociales|
 |:soccer:	Diversión|:shield: Seguridad|:wastebasket: Residuos sólidos|:juggling_person: Deporte y Cultura|:satellite: Telecomunicación|
 |:tram: Transporte|:farmer: Agricultura urbana y Seguridad alimentaria|:building_construction: Planeamiento urbanístico|:non-potable_water: Aguas residuales|:potable_water:Agua|
-|------------ | -------------|------------ |------------ | -------------|
-
 
 
