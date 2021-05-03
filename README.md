@@ -4,7 +4,7 @@ Este repositorio tiene como fin unificar información que permita a personas del
 
 
 # Actores
-Desde la visión de Smart Cities Community estos son los actores que minimamente debe tener un proyecto de Ciudad Inteligente pues cada uno de estos saberes hacen que las decisiones que se tomen tengan fundamento, perspectiva, idoneidad y objetividad. La ausencia de uno de ellos afectaria el equilibrio en la toma de decisiones y afectaria sistemas macro y podria beneficar temporalmente sistemás micro pero a futuro generaríá roces o conflictos de dificil reconciliación en ambitos político, social y economico. Un aspecto clave de los proyectos de Ciudad Inteligente es la objetividad en la continuidad y sostenibilidad de los ecosistemas creados u organicos resultantes.
+Desde la visión de Smart Cities Community estos son los actores que minimamente debe tener un proyecto de Ciudad Inteligente pues cada uno de estos saberes hacen que las decisiones que se tomen tengan fundamento, perspectiva, idoneidad y objetividad. La ausencia de uno de ellos afectaria el equilibrio en la toma de decisiones y afectaria sistemas macro y podria beneficar temporalmente sistemás micro pero a futuro generaríá roces o conflictos de dificil reconciliación en ambitos político, social y economico. Un aspecto clave de los proyectos de Ciudad Inteligente es la objetividad en la continuidad y sostenibilidad de los ecosistemas creados, organicos, derivados y accidentales.
 
 ## Articulación multisectorial por actores
 
