@@ -71,4 +71,5 @@ La ISO 37120 tiene relaciones con la siguiente lista de normas o estándares baj
 
 |Ley,Decreto, Articulo, Norma, Acuerdo|Contexto|
 | ----- | ----- |
-|Proyecto de Acto Legislativo 03 de 2020|“Por el cual se otorga la calidad de Distrito Especial de Ciencia, Tecnología e Innovación a la ciudad de Medellín y se dictan otras disposiciones|
+|Proyecto de Acto Legislativo 03 de 2020|Por el cual se otorga la calidad de Distrito Especial de Ciencia, Tecnología e Innovación a la ciudad de Medellín y se dictan otras disposiciones|
+|Ley 1617 de 2013|Estructura, Organización Y Funcionamiento Distrital|
