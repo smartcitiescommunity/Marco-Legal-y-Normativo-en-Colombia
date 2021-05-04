@@ -67,6 +67,13 @@ La ISO 37120 tiene relaciones con la siguiente lista de normas o estándares baj
 |ISO/AWI 37124|Orientación sobre el uso de la serie de normas ISO 37120 para ciudades: ISO 37120, ISO 37122 e ISO 37123|
 
 
+
+# Mapa de necesidades
+En una ciudad o distrito debe realizarce un mapa de necesidades por sectores, esto cobra importancia toda vez que ciertas ubicaciones poseen diversidad etcnica, culturl y religosa entre otros. Esto condiciona las necesidades del sector y el como perciben su integración en procesos de ciudad.
+
+# Llevar ideas a cabo
+Una vez realizado del mapa de necesidades a través de reuniones y encuentas se puede recolectar información para la urgencia, prioridad, riesgo e impacto en la toma decisiones teniendo encuenta las necesidades y retos del sector o territorio.
+
 # Marco Legal y Normativo en Colombia
 
 |Ley,Decreto, Articulo, Norma, Acuerdo|Contexto|
