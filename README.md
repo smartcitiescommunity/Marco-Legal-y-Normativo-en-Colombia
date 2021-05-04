@@ -74,6 +74,8 @@ En una ciudad o distrito debe realizarce un mapa de necesidades por sectores, es
 # Llevar ideas a cabo
 Una vez realizado del mapa de necesidades a través de reuniones y encuentas se puede recolectar información para la urgencia, prioridad, riesgo e impacto en la toma decisiones teniendo encuenta las necesidades y retos del sector o territorio.
 
+# Realizar y ejecutar proyectos.
+
 # Marco Legal y Normativo en Colombia
 
 |Ley,Decreto, Articulo, Norma, Acuerdo|Contexto|
