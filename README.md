@@ -82,6 +82,7 @@ Una vez realizado del mapa de necesidades a través de reuniones y encuentas se 
 | ----- | ----- |
 |Acto Legislativo 1 de 2001|por medio del cual se modifican algunos artículos de la Constitución Política 347,356 y 357|
 |Ley 715 De 2001|Por la cual se dictan normas orgánicas en materia de recursos y competencias de conformidad con los artículos 151, 288, 356 y 357 (Acto Legislativo 01 de 2001) de la Constitución Política y se dictan otras disposiciones para organizar la prestación de los servicios de educación y salud, entre otros.|
+|Ley 1454 de 2011|En la cual se dictan normas orgánicas sobre ordenamiento territorial y se modifican otras disposiciones|
 |Ley 1617 de 2013|Estructura, Organización Y Funcionamiento Distrital|
 |Artículo 151|El Congreso expedirá leyes orgánicas a las cuales estará sujeto el ejercicio de la actividad legislativa. Por medio de ellas se establecerán los reglamentos del Congreso y de cada una de las Cámaras, las normas sobre preparación, aprobación y ejecución del presupuesto de rentas y ley de apropiaciones y del plan general de desarrollo, y las relativas a la asignación de competencias normativas a las entidades territoriales. Las leyes orgánicas requerirán, para su aprobación, la mayoría absoluta de los votos de los miembros de una y otra Cámara.|
 |Proyecto de Acto Legislativo 03 de 2020|Por el cual se otorga la calidad de Distrito Especial de Ciencia, Tecnología e Innovación a la ciudad de Medellín y se dictan otras disposiciones|
