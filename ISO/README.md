@@ -7,6 +7,17 @@
 ## Normas y estándares ISO relacionados a las ciudades inteligentes
 La ISO 37120 tiene relaciones con la siguiente lista de normas o estándares bajo la categoría de ciudades y comunidades sostenibles:
 
+
+## Sectores y áreas según la ISO
+Sectores y áreas de Impacto contempladas en la Norma ISO 37120  y relacionadas. La ISO 37120 se creo con el próposito de medir y mejorar el desempeño de las ciudades y que estas mantengan el control de la situación. De esta manera se evita esquemas de gobernanza arbitrarios, los cuales comunes en las ciudades cuyas administraciones con altos indices de corrupción, reflejados en burocracia excesiva, mal uso de presupuesto, de activos, recursos públicos y resultados negativos en indices y sistemas de evaluación.
+||||||
+|------------ | -------------|------------ |------------ | -------------|
+|:moneybag: Economía|:open_book: Educación|:zap: Energía|:recycle: Medio ambiente y Cambio climático|
+|:heavy_dollar_sign: Finanzas|:classical_building: Gobernanza|:medical_symbol: Salud|:house_with_garden: Vivienda|:family: Población y Condiciones sociales|
+|:soccer:	Diversión|:shield: Seguridad|:wastebasket: Residuos sólidos|:juggling_person: Deporte y Cultura|:satellite: Telecomunicación|
+|:tram: Transporte|:farmer: Agricultura urbana y Seguridad alimentaria|:building_construction: Planeamiento urbanístico|:non-potable_water: Aguas residuales|:potable_water:Agua|
+
+
 |ISO|Contexto|
 |------------ | -------------|
 |ISO 37100:2016|Vocabulario|
