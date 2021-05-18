@@ -1,4 +1,4 @@
-# Citado o referenciado en públicaciones
+## Citado o referenciado en públicaciones
 
 |Licencia|Citado|Compatibilidad|
 |------------ | -------------|------------ |
