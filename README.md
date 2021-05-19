@@ -2,7 +2,7 @@
 
 Este repositorio tiene como fin unificar información que permita a personas del ambito de las Ciudades inteligentes y actores relacionados tener una ruta clara a la hora de tomar decisiones. Si  bien gran parte de la información es generica estará enfocada al ambito Colombiano. Sea cuidadoso en la lectura de contenidos y la adaptación por fuera del territorio Colombiano.
 
-# Citado o referenciado en públicaciones
+## Citado o referencias en públicaciones
 
 |Licencia|Citado|Compatibilidad|
 |------------ | -------------|------------ |
