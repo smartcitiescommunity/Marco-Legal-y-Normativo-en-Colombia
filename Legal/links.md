@@ -7,3 +7,5 @@ https://www.ccit.org.co/articulos-tictac/indice-de-ciudades-y-territorios-inteli
 https://www.medellin.gov.co/es/sala-de-prensa/noticias/medellin-es-reconocida-por-mintic-como-la-ciudad-mas-inteligente-del-pais/
 
 https://cintel.co/lineas-de-accion/innovacion/ciudades-inteligentes/
+
+https://www.enter.co/empresas/bogota-ciudades-inteligentes/
